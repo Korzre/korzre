@@ -40,14 +40,6 @@ Today, I focus fully on Web, delivering fast, reliable, and scalable software.
 
 ---
 
-### 📂 Projects That Matter
-
-I believe in building **practical, usable tools**, not just experiments.
-
-> “Code is not just code. It’s the bridge between an idea and a real-world impact.”
-
----
-
 ### 📫 Let's Connect
 
 I'm open to **remote opportunities**, freelance gigs, or collaborations on exciting products.
