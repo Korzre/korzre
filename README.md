@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Danilo 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> passionate about building real-world web and mobile applications.<br>
+  <strong>Backend Developer</strong> passionate about building real-world web applications.<br>
   Focused on clean backend architecture, solid frontend experiences, and reliable infrastructure.
 </p>
 
@@ -14,7 +14,7 @@ I started my journey in programming with **C#**, developing small desktop projec
 Later, I explored game development with **Java**, where I built a few 2D games.  
 Though that phase was brief, it sparked a deep passion for **creating systems** that feel alive and purposeful.
 
-Today, I focus fully on **Web and Mobile Development**, delivering fast, reliable, and scalable software.
+Today, I focus fully on Web, delivering fast, reliable, and scalable software.
 
 ---
 
@@ -22,10 +22,9 @@ Today, I focus fully on **Web and Mobile Development**, delivering fast, reliabl
 
 **Languages & Frameworks:**
 
-- 💻 PHP (**Laravel**), JavaScript/TypeScript (**React**, **Next.js**, **Node.js**, **NestJS**)
-- 🐍 Python (**FastAPI** - in progress)
-- 📱 **React Native** for mobile development
-
+- 💻 PHP (**Laravel**)
+- 💻 Java (**Spring Boot**)
+- 🐍 Python 
 **Databases:**
 
 - 🐬 MySQL, 🐘 PostgreSQL, 🍃 MongoDB, 🚀 Redis
@@ -46,14 +45,6 @@ Today, I focus fully on **Web and Mobile Development**, delivering fast, reliabl
 I believe in building **practical, usable tools**, not just experiments.
 
 > “Code is not just code. It’s the bridge between an idea and a real-world impact.”
-
-I’ve worked on:
-- 🧾 **Custom ERP solutions** for small businesses
-- 🎬 **Video platforms** with upload, playback and admin dashboards
-- 🛒 **E-commerce systems** with checkout, payment, inventory and analytics
-- 🧠 **Learning systems** for bootcamps and content platforms
-
-Want to see more? Check the pinned repos!
 
 ---
 
