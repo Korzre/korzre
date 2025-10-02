@@ -25,6 +25,8 @@ Today, I focus fully on Web, delivering fast, reliable, and scalable software.
 - 💻 PHP (**Laravel**)
 - 💻 Java (**Spring Boot**)
 - 🐍 Python 
+
+
 **Databases:**
 
 - 🐬 MySQL, 🐘 PostgreSQL, 🍃 MongoDB, 🚀 Redis
