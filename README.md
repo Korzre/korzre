@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I started my journey in programming with **C#**, developing small desktop projects.
+I started my journey in programming with **C#**, developing desktop projects.
 
 Later, I explored game development with **Java**, where I built a few 2D games.  
 Though that phase was brief, it sparked a deep passion for **creating systems** that feel alive and purposeful.
