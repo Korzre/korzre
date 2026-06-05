@@ -79,7 +79,7 @@ experience   →  8+ years (2018 → present)
 domains      →  fintech · healthcare · legal tech · institutional
 architecture →  modular monolith · microservices · CAP-aware design
 languages    →  Portuguese (native) · English (professional)
-status       →  ● open to work — remote & international
+status       →  ● open to work | remote & international
 ```
 
 ---
@@ -96,9 +96,8 @@ email      →  manueldanilo931@gmail.com
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Korzre&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korzre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Korzre&theme=github_dark)
+
 
 ---
 
