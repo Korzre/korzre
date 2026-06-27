@@ -57,7 +57,7 @@ korzre@github:~$ cat stack.json
 ```json
 {
   "backend":       ["Java 21", "Spring Boot", "Spring Security", "Spring Batch", "JPA/Hibernate"],
-  "databases":     ["PostgreSQL", "Redis", "MongoDB", "Cassandra"],
+  "databases":     ["PostgreSQL", "Redis", "MongoDB", "Neo4J"],
   "infra":         ["Docker", "AWS", "GitHub Actions", "Nginx", "Cloudflare"],
   "messaging":     ["RabbitMQ", "Kafka"],
   "observability": ["Prometheus", "Grafana", "OpenTelemetry"],
@@ -76,7 +76,7 @@ korzre@github:~$ cat status.log
 ```
 education    →  B.Sc. Software Engineering · UniFil · 2023
 experience   →  8+ years (2018 → present)
-domains      →  fintech · healthcare · legal tech · institutional
+domains      →  fintech · healthcare · legal tech · B2B SaaS
 architecture →  modular monolith · microservices · CAP-aware design
 languages    →  Portuguese (native) · English (professional)
 status       →  ● open to work | remote & international
@@ -90,7 +90,7 @@ korzre@github:~$ ./connect.sh
 
 ```
 portfolio  →  danilomanuel.dev
-linkedin   →  linkedin.com/in/danilomanuel
+linkedin   →  linkedin.com/in/danilo-manuel
 email      →  manueldanilo931@gmail.com
 ```
 
