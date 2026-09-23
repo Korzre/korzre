@@ -14,8 +14,8 @@ korzre@github:~$ whoami
 ```
 
 ```
-Danilo Manuel — Backend Developer
-Java & Spring Boot · Londrina, BR · in the game since 2018
+Danilo Manuel — Full Stack Engineer
+Java & Spring Boot · Python & FastAPI · React
 ```
 
 ---
@@ -25,27 +25,17 @@ korzre@github:~$ cat about.txt
 ```
 
 ```
-I'm a backend developer specialized in Java and Spring Boot,
-with experience building APIs, distributed systems, and scalable
-architectures across domains like fintech, healthcare, legal tech,
-and institutional software.
+I'm a Full Stack Engineer specializing in Java (Spring Boot) and Python (FastAPI/Data),
+building scalable distributed systems, transactional APIs, and high-performance web applications.
 
-I started in 2018 writing desktop apps in C#, went through a phase
-of building games in Java, brief but formative, and eventually
-found my place designing backend systems that are built to last.
+My work spans fintech infrastructure, data engineering pipelines, security tools, 
+and modern web/desktop platforms. I move comfortably from low-level systems in C 
+and async automation in Python to robust Java backends and reative frontends with React and Astro.
 
-I think in systems before I write a single line of code.
-Architecture, data modeling, and flow design come first.
-Then implementation follows with intention.
+I think in systems before writing code: architecture, data modeling, trade-offs (CAP theorem, 
+consistency, latency), and flow design come first.
 
-I'm also a fullstack practitioner. I deliver quality frontend
-when needed, but backend is where I naturally gravitate.
-I prototype interfaces in Figma or Penpot, build UIs with
-React, Next.js and Astro, and ship desktop apps with Tauri.
-
-I have a genuine interest in databases, not just SQL vs NoSQL,
-but the real trade-offs: CAP theorem, consistency models,
-partition tolerance, and when each tool earns its place.
+I engineer backends built to last and pair them with crisp, responsive user experiences.
 ```
 
 ---
@@ -56,14 +46,14 @@ korzre@github:~$ cat stack.json
 
 ```json
 {
-  "backend":       ["Java 21", "Spring Boot", "Spring Security", "Spring Batch", "JPA/Hibernate"],
-  "databases":     ["PostgreSQL", "Redis", "MongoDB", "Neo4J"],
-  "infra":         ["Docker", "AWS", "GitHub Actions", "Nginx", "Cloudflare"],
-  "messaging":     ["RabbitMQ", "Kafka"],
-  "observability": ["Prometheus", "Grafana", "OpenTelemetry"],
-  "testing":       ["JUnit", "Mockito", "Testcontainers", "k6"],
-  "frontend":      ["React", "Next.js", "Astro", "React Native"],
-  "design":        ["Figma", "Penpot"]
+  "backend":       ["Java 21 (Spring Boot)", "Python (FastAPI, Flask)", "C", "Go"],
+  "frontend":      ["React", "Next.js", "Astro", "TypeScript", "TailwindCSS", "Wails"],
+  "data_and_ml":   ["PySpark", "Databricks", "Polars", "Pandas", "Scikit-Learn", "Parquet", "DuckDB"],
+  "databases":     ["PostgreSQL", "Redis", "MongoDB", "Supabase"],
+  "messaging":     ["RabbitMQ", "AWS SQS", "Redis Pub/Sub", "SSE", "WebSockets"],
+  "cloud_infra":   ["AWS (EC2, S3)", "Docker", "Nginx", "GitHub Actions", "Cloudflare"],
+  "observability": ["Prometheus", "Grafana", "Spring Actuator", "OpenTelemetry"],
+  "testing":       ["JUnit", "Mockito", "Testcontainers", "PyTest", "k6"]
 }
 ```
 
@@ -74,12 +64,12 @@ korzre@github:~$ cat status.log
 ```
 
 ```
-education    →  B.Sc. Software Engineering · UniFil · 2023
-experience   →  8+ years (2018 → present)
-domains      →  fintech · healthcare · legal tech · B2B SaaS
-architecture →  modular monolith · microservices · CAP-aware design
+education    →  B.Sc. Software Engineering · UniFil
+focus        →  full stack engineering · distributed systems · data & async pipelines
+domains      →  fintech · B2B SaaS · cyber security · sports intelligence
+architecture →  modular monolith · microservices · event-driven · CAP-aware design
 languages    →  Portuguese (native) · English (professional)
-status       →  ● open to work | remote & international
+status       →  ● open to work | remote & international opportunities
 ```
 
 ---
@@ -89,7 +79,7 @@ korzre@github:~$ ./connect.sh
 ```
 
 ```
-portfolio  →  danilomanuel.dev
+portfolio  →  
 linkedin   →  linkedin.com/in/danilo-manuel
 email      →  manueldanilo931@gmail.com
 ```
