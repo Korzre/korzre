@@ -47,10 +47,10 @@ korzre@github:~$ cat stack.json
 ```json
 {
   "backend":       ["Java 21 (Spring Boot)", "Python (FastAPI, Flask)", "C", "Go"],
-  "frontend":      ["React", "Next.js", "Astro", "TypeScript", "TailwindCSS", "Wails"],
+  "frontend":      ["React", "Next.js", "Astro", "TypeScript", "Wails"],
   "data_and_ml":   ["PySpark", "Databricks", "Polars", "Pandas", "Scikit-Learn", "Parquet", "DuckDB"],
   "databases":     ["PostgreSQL", "Redis", "MongoDB", "Supabase"],
-  "messaging":     ["RabbitMQ", "AWS SQS", "Redis Pub/Sub", "SSE", "WebSockets"],
+  "messaging":     ["RabbitMQ", "Redis Pub/Sub", "SSE", "WebSockets"],
   "cloud_infra":   ["AWS (EC2, S3)", "Docker", "Nginx", "GitHub Actions", "Cloudflare"],
   "observability": ["Prometheus", "Grafana", "Spring Actuator", "OpenTelemetry"],
   "testing":       ["JUnit", "Mockito", "Testcontainers", "PyTest", "k6"]
